@@ -1686,7 +1686,7 @@ body.is-touch .main {
 /* Intro */
 
 #intro {
-  background: url("../../images/FrontBackBook1400Width.jpg");
+  background: url("../../images/Edition2Cover.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: bottom center;
@@ -1705,7 +1705,7 @@ body.is-touch .main {
 /* Two */
 
 #two {
-  background: url("../../images/BackBook1400Width.jpg");
+  background: url("../../images/Edition2Inside.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
